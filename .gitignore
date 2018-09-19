@@ -1,0 +1,11 @@
+wordpress
+.data
+.idea
+vendor
+node_modules
+.DS_Store
+temp.sql
+last.sql
+.stager.js
+.production.js
+.env
